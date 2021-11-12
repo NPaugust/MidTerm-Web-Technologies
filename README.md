@@ -7,6 +7,11 @@ The website has things like a navigation menu with transitions, buttons, links, 
 Resources were taken from various sources.
 Guides:https://www.youtube.com/watch?v=_xkSvufmjEs
 
+# About Bootstrap.
+# I tried using bootstrap but I didn't have enough knowledge to use it correctly.
+# My repl :https://replit.com/@dmgswift/MidProject?v=1
+ 
+ 
 ## TODO
 ![web-avgustine](https://user-images.githubusercontent.com/72886935/141477366-390db4c9-168b-4f0c-9e77-d7eb6bb77b7b.png)
 ![web-avgustine1](https://user-images.githubusercontent.com/72886935/141476643-738d2915-b105-4671-a427-b170670e7d40.png)
