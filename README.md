@@ -19,9 +19,8 @@ https://npaugust.github.io/
 https://replit.com/@dmgswift/MidProject?v=1
 
 
-# About Bootstrap.
- I tried using bootstrap but I didn't have enough knowledge to use it correctly. So i deleted it.
- 
+# Made by 
+Avgustin Chynarbekov
 
  
 ## TODO
