@@ -3,8 +3,10 @@ This is midterm project for CS 204 course at AIU CS detpt.
 Web Site made by me and about me. 
 The page is made entirely by hand. 
 HTML / CSS was used. 
-The website has things like a navigation menu with transitions, buttons, links, and photos.
-Resources were taken from various sources.
+The website has things like a navigation menu with transitions,
+buttons, links, photos and copyright with contacts.
+
+# Resources were taken from various sources.
 Guides:https://www.youtube.com/watch?v=_xkSvufmjEs
 
 
@@ -16,8 +18,6 @@ https://replit.com/@dmgswift/MidProject?v=1
  I tried using bootstrap but I didn't have enough knowledge to use it correctly. So i deleted it.
  
 
-# My repl :https://replit.com/@dmgswift/MidProject?v=1
- 
  
 ## TODO
 ![web-avgustine](https://user-images.githubusercontent.com/72886935/141477366-390db4c9-168b-4f0c-9e77-d7eb6bb77b7b.png)
