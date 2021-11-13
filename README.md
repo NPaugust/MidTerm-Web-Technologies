@@ -7,9 +7,15 @@ The website has things like a navigation menu with transitions, buttons, links, 
 Resources were taken from various sources.
 Guides:https://www.youtube.com/watch?v=_xkSvufmjEs
 
+
+#link for project in my repl 
+https://replit.com/@dmgswift/MidProject?v=1
+
+
 # About Bootstrap.
  I tried using bootstrap but I didn't have enough knowledge to use it correctly. So i deleted it.
  
+
 # My repl :https://replit.com/@dmgswift/MidProject?v=1
  
  
