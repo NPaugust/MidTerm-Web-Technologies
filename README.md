@@ -12,7 +12,10 @@ Resources were taken from various sources.
 Guides:https://www.youtube.com/watch?v=_xkSvufmjEs
 
 
-# Link for the project in my repl 
+# Links:
+
+https://github.com/NPaugust/MidTerm-Web-Technologies/blob/main/WEB-Avgustine%20Chynarbekov.zip
+
 https://replit.com/@dmgswift/MidProject?v=1
 
 
