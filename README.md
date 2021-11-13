@@ -14,8 +14,7 @@ Guides:https://www.youtube.com/watch?v=_xkSvufmjEs
 
 # Links:
 
-https://github.com/NPaugust/MidTerm-Web-Technologies/blob/main/WEB-Avgustine%20Chynarbekov.zip
-
+https://npaugust.github.io/
 https://replit.com/@dmgswift/MidProject?v=1
 
 
