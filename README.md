@@ -5,7 +5,8 @@ The page is made entirely by hand.
 
 HTML / CSS were used. 
 
-# The website has things like a navigation menu with transitions,
+# The website has things like:
+navigation menu with transitions,
 buttons, links, photos and copyright with contacts.
 Resources were taken from various sources.
 Guides:https://www.youtube.com/watch?v=_xkSvufmjEs
