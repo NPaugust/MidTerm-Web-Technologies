@@ -8,7 +8,7 @@ Resources were taken from various sources.
 Guides:https://www.youtube.com/watch?v=_xkSvufmjEs
 
 
-# link for project in my repl 
+# Link for the project in my repl 
 https://replit.com/@dmgswift/MidProject?v=1
 
 
