@@ -14,14 +14,13 @@ Guides:https://www.youtube.com/watch?v=_xkSvufmjEs
 
 # Links:
 
-https://github.com/NPaugust/MidTerm-Web-Technologies/blob/main/WEB-Avgustine%20Chynarbekov.zip
+https://npaugust.github.io/
 
 https://replit.com/@dmgswift/MidProject?v=1
 
 
-# About Bootstrap.
- I tried using bootstrap but I didn't have enough knowledge to use it correctly. So i deleted it.
- 
+# Made by 
+Avgustin Chynarbekov
 
  
 ## TODO
